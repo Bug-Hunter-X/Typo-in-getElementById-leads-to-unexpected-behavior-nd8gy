@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in HTML and JavaScript. The bug involves a simple typo in the `getElementById` function, which is frequently used to manipulate elements in a webpage.  The solution shows how to correct the typo and prevent the error.  This is a useful example for understanding basic JavaScript/HTML interactions.
